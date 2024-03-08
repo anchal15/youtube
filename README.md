@@ -10,3 +10,6 @@
     - Added youtube api to get the videos list
     - Setup watchpage
     - Embedded youtube iframe for watch page
+    - Search
+        - Added searchSlice
+        - Added cache
