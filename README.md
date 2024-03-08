@@ -13,3 +13,4 @@
     - Search
         - Added searchSlice
         - Added cache
+    - Added comments
