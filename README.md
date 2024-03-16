@@ -14,3 +14,7 @@
         - Added searchSlice
         - Added cache
     - Added comments
+    - Added live chat
+    - Setup firebase
+
+# Link: https://fir-2cbb7.web.app
